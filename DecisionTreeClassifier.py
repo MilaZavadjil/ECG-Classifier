@@ -1,4 +1,3 @@
-# 84%
 #load libraries
 import pandas as pd
 import numpy as np
